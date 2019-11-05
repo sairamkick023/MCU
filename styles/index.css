@@ -1,0 +1,15 @@
+.content-characters {
+    margin-top: 1%;
+    padding: 1%;
+}
+
+.content hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1.5px solid red;
+    margin: 1em 0;
+    padding: 10px;
+    width: 87%;
+    margin-left: 5%;
+}
