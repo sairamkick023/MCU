@@ -2,7 +2,7 @@
 MCU is a Static HTML Web-Page Project designed for providing all the movies list and the upcoming movies updates from the Marvel Cinematic Universe.
 MCU is developed using HTML & CSS.
 
-##DEMO
+## DEMO
 Open the link provided: https://sairamkick023.github.io/MCU/ to launch the project.
 
 On the HomePage you can see the title(Marvel Cinematic Universe) on the top of the Page.
